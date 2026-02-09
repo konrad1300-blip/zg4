@@ -1,0 +1,765 @@
+{
+  "grupy": [
+    {
+      "nazwa": "Koła",
+      "metody": [
+        {
+          "nazwa": "HF Duży (ZEMAT)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 2.0
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 1,
+              "czas": 3.0
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 2,
+              "czas": 2.0
+            },
+            "powyżej 60m2": {
+              "pracownicy": 3,
+              "czas": 3.0
+            }
+          }
+        },
+        {
+          "nazwa": "HF Mały (WOLDAN)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 2.0
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 1,
+              "czas": 3.0
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 2,
+              "czas": 2.0
+            },
+            "powyżej 60m2": {
+              "pracownicy": 3,
+              "czas": 3.0
+            }
+          }
+        },
+        {
+          "nazwa": "Gorące Powietrze (MILLER)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 1.5
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 2,
+              "czas": 1.5
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 3,
+              "czas": 1.5
+            },
+            "powyżej 60m2": {
+              "pracownicy": 4,
+              "czas": 2.0
+            }
+          }
+        },
+        {
+          "nazwa": "Gorące Powietrze (Ręcznie)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 3.0
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 1,
+              "czas": 5.0
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 2,
+              "czas": 4.0
+            },
+            "powyżej 60m2": {
+              "pracownicy": 3,
+              "czas": 5.0
+            }
+          }
+        },
+        {
+          "nazwa": "Gorące Powietrze (Zgrzewarka jezdna)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 1.5
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 2,
+              "czas": 2.0
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 3,
+              "czas": 3.0
+            },
+            "powyżej 60m2": {
+              "pracownicy": 4,
+              "czas": 4.0
+            }
+          }
+        },
+        {
+          "nazwa": "Gorące Powietrze (ASATECH)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 1.5
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 2,
+              "czas": 2.0
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 3,
+              "czas": 3.0
+            },
+            "powyżej 60m2": {
+              "pracownicy": 4,
+              "czas": 4.0
+            }
+          }
+        },
+        {
+          "nazwa": "Gorący Klin (SEAMTEC)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 1.5
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 2,
+              "czas": 1.5
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 3,
+              "czas": 1.5
+            },
+            "powyżej 60m2": {
+              "pracownicy": 4,
+              "czas": 2.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "nazwa": "Box",
+      "metody": [
+        {
+          "nazwa": "HF Duży (ZEMAT)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 2.0
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 1,
+              "czas": 3.0
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 2,
+              "czas": 2.0
+            },
+            "powyżej 60m2": {
+              "pracownicy": 3,
+              "czas": 3.0
+            }
+          }
+        },
+        {
+          "nazwa": "HF Mały (WOLDAN)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 2.0
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 1,
+              "czas": 3.0
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 2,
+              "czas": 2.0
+            },
+            "powyżej 60m2": {
+              "pracownicy": 3,
+              "czas": 3.0
+            }
+          }
+        },
+        {
+          "nazwa": "Gorące Powietrze (MILLER)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 1.5
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 2,
+              "czas": 1.5
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 3,
+              "czas": 1.5
+            },
+            "powyżej 60m2": {
+              "pracownicy": 4,
+              "czas": 2.0
+            }
+          }
+        },
+        {
+          "nazwa": "Gorące Powietrze (Ręcznie)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 3.0
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 1,
+              "czas": 5.0
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 2,
+              "czas": 4.0
+            },
+            "powyżej 60m2": {
+              "pracownicy": 3,
+              "czas": 5.0
+            }
+          }
+        },
+        {
+          "nazwa": "Gorące Powietrze (Zgrzewarka jezdna)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 1.5
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 2,
+              "czas": 2.0
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 3,
+              "czas": 3.0
+            },
+            "powyżej 60m2": {
+              "pracownicy": 4,
+              "czas": 4.0
+            }
+          }
+        },
+        {
+          "nazwa": "Gorące Powietrze (ASATECH)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 1.5
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 2,
+              "czas": 2.0
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 3,
+              "czas": 3.0
+            },
+            "powyżej 60m2": {
+              "pracownicy": 4,
+              "czas": 4.0
+            }
+          }
+        },
+        {
+          "nazwa": "Gorący Klin (SEAMTEC)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 1.5
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 2,
+              "czas": 1.5
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 3,
+              "czas": 1.5
+            },
+            "powyżej 60m2": {
+              "pracownicy": 4,
+              "czas": 2.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "nazwa": "Płachty",
+      "metody": [
+        {
+          "nazwa": "HF Duży (ZEMAT)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 2.0
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 1,
+              "czas": 3.0
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 2,
+              "czas": 2.0
+            },
+            "powyżej 60m2": {
+              "pracownicy": 3,
+              "czas": 3.0
+            }
+          }
+        },
+        {
+          "nazwa": "HF Mały (WOLDAN)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 2.0
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 1,
+              "czas": 3.0
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 2,
+              "czas": 2.0
+            },
+            "powyżej 60m2": {
+              "pracownicy": 3,
+              "czas": 3.0
+            }
+          }
+        },
+        {
+          "nazwa": "Gorące Powietrze (MILLER)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 1.5
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 2,
+              "czas": 1.5
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 3,
+              "czas": 1.5
+            },
+            "powyżej 60m2": {
+              "pracownicy": 4,
+              "czas": 2.0
+            }
+          }
+        },
+        {
+          "nazwa": "Gorące Powietrze (Ręcznie)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 3.0
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 1,
+              "czas": 5.0
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 2,
+              "czas": 4.0
+            },
+            "powyżej 60m2": {
+              "pracownicy": 3,
+              "czas": 5.0
+            }
+          }
+        },
+        {
+          "nazwa": "Gorące Powietrze (Zgrzewarka jezdna)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 1.5
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 2,
+              "czas": 2.0
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 3,
+              "czas": 3.0
+            },
+            "powyżej 60m2": {
+              "pracownicy": 4,
+              "czas": 4.0
+            }
+          }
+        },
+        {
+          "nazwa": "Gorące Powietrze (ASATECH)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 1.5
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 2,
+              "czas": 2.0
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 3,
+              "czas": 3.0
+            },
+            "powyżej 60m2": {
+              "pracownicy": 4,
+              "czas": 4.0
+            }
+          }
+        },
+        {
+          "nazwa": "Gorący Klin (SEAMTEC)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 1.5
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 2,
+              "czas": 1.5
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 3,
+              "czas": 1.5
+            },
+            "powyżej 60m2": {
+              "pracownicy": 4,
+              "czas": 2.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "nazwa": "Nieregularne Drobne",
+      "metody": [
+        {
+          "nazwa": "HF Duży (ZEMAT)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 2.0
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 1,
+              "czas": 3.0
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 2,
+              "czas": 2.0
+            },
+            "powyżej 60m2": {
+              "pracownicy": 3,
+              "czas": 3.0
+            }
+          }
+        },
+        {
+          "nazwa": "HF Mały (WOLDAN)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 2.0
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 1,
+              "czas": 3.0
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 2,
+              "czas": 2.0
+            },
+            "powyżej 60m2": {
+              "pracownicy": 3,
+              "czas": 3.0
+            }
+          }
+        },
+        {
+          "nazwa": "Gorące Powietrze (MILLER)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 1.5
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 2,
+              "czas": 1.5
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 3,
+              "czas": 1.5
+            },
+            "powyżej 60m2": {
+              "pracownicy": 4,
+              "czas": 2.0
+            }
+          }
+        },
+        {
+          "nazwa": "Gorące Powietrze (Ręcznie)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 3.0
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 1,
+              "czas": 5.0
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 2,
+              "czas": 4.0
+            },
+            "powyżej 60m2": {
+              "pracownicy": 3,
+              "czas": 5.0
+            }
+          }
+        },
+        {
+          "nazwa": "Gorące Powietrze (Zgrzewarka jezdna)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 1.5
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 2,
+              "czas": 2.0
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 3,
+              "czas": 3.0
+            },
+            "powyżej 60m2": {
+              "pracownicy": 4,
+              "czas": 4.0
+            }
+          }
+        },
+        {
+          "nazwa": "Gorące Powietrze (ASATECH)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 1.5
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 2,
+              "czas": 2.0
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 3,
+              "czas": 3.0
+            },
+            "powyżej 60m2": {
+              "pracownicy": 4,
+              "czas": 4.0
+            }
+          }
+        },
+        {
+          "nazwa": "Gorący Klin (SEAMTEC)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 1.5
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 2,
+              "czas": 1.5
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 3,
+              "czas": 1.5
+            },
+            "powyżej 60m2": {
+              "pracownicy": 4,
+              "czas": 2.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "nazwa": "Nieregularne Duże",
+      "metody": [
+        {
+          "nazwa": "HF Duży (ZEMAT)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 2.0
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 1,
+              "czas": 3.0
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 2,
+              "czas": 2.0
+            },
+            "powyżej 60m2": {
+              "pracownicy": 3,
+              "czas": 3.0
+            }
+          }
+        },
+        {
+          "nazwa": "HF Mały (WOLDAN)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 2.0
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 1,
+              "czas": 3.0
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 2,
+              "czas": 2.0
+            },
+            "powyżej 60m2": {
+              "pracownicy": 3,
+              "czas": 3.0
+            }
+          }
+        },
+        {
+          "nazwa": "Gorące Powietrze (MILLER)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 1.5
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 2,
+              "czas": 1.5
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 3,
+              "czas": 1.5
+            },
+            "powyżej 60m2": {
+              "pracownicy": 4,
+              "czas": 2.0
+            }
+          }
+        },
+        {
+          "nazwa": "Gorące Powietrze (Ręcznie)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 3.0
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 1,
+              "czas": 5.0
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 2,
+              "czas": 4.0
+            },
+            "powyżej 60m2": {
+              "pracownicy": 3,
+              "czas": 5.0
+            }
+          }
+        },
+        {
+          "nazwa": "Gorące Powietrze (Zgrzewarka jezdna)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 1.5
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 2,
+              "czas": 2.0
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 3,
+              "czas": 3.0
+            },
+            "powyżej 60m2": {
+              "pracownicy": 4,
+              "czas": 4.0
+            }
+          }
+        },
+        {
+          "nazwa": "Gorące Powietrze (ASATECH)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 1.5
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 2,
+              "czas": 2.0
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 3,
+              "czas": 3.0
+            },
+            "powyżej 60m2": {
+              "pracownicy": 4,
+              "czas": 4.0
+            }
+          }
+        },
+        {
+          "nazwa": "Gorący Klin (SEAMTEC)",
+          "czasy": {
+            "do 2m2": {
+              "pracownicy": 1,
+              "czas": 1.5
+            },
+            "od 2 do 20m2": {
+              "pracownicy": 2,
+              "czas": 1.5
+            },
+            "od 20 do 60m2": {
+              "pracownicy": 3,
+              "czas": 1.5
+            },
+            "powyżej 60m2": {
+              "pracownicy": 4,
+              "czas": 2.0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "data_zapisu": "2026-02-09T20:37:19.719937"
+}
